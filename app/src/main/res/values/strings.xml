@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyGmailApp</string>
+    <string name="load_more_button">Load More</string>
+</resources>
